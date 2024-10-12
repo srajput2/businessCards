@@ -1,0 +1,7 @@
+{
+  "name": "business-cards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
